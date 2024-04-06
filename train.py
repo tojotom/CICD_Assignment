@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas as pdd
 from sklearn.linear_model import LogisticRegression
 from sklearn.naive_bayes import GaussianNB
 import pickle
